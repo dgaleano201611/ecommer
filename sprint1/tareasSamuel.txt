@@ -1,0 +1,5 @@
+Tareas Samuel:
+
+1. Objetivo general 3 (Usuarios para gestionar datos y pedidos)
+2. Objetivo general 4 (Usuario administrador para realizar CRUD del producto)
+3. Requerimientos funcionales relacionados a usuarios.

@@ -1,0 +1,5 @@
+Tareas Carlos:
+
+1. Objetivo especifico 2. (carrito de compras)
+2. Requerimientos funcionales relacionados al carrito de compras
+3. Requerimientos NO funcionales
