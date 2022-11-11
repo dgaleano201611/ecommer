@@ -1,6 +1,40 @@
 Tareas Diego:
 
 1. Descripción del Proyecto
+La empresa <Nombre de la empresa> desea vender ropa para dama, caballero y niño por medio de una paguina web 
+que le permita exhibir sus productos  y realizar ventas de forma Online (ecommerce), para aumentar 
+su productividad, que la marca se dé a conocer, expandise y generar mayores ingresos para tener un crecimiento 
+en la industria.
+
+
 2. Objetivo específico 1. (Exhibición del producto)
+Mortrar en el home de la paguina web la lista de imagenes de los productos ofrecidos por la empresa <nombre de la empresa> para 
+que las personas que entren puedan observar de manera ordenada los productos el precio de los mismos y promociones y los puedan 
+incluir al carrito de compras. 
+
 3. Objetivo general 5. (brindar seguridad)
+Ofrecer a la empresa <name> la seguridad en los datos de los clientes y el administrador usando JWT (Json Web Token) 
 4. Objetivo General del proyecto
+Crear una paguina web a la empresa <name> que le permita exhibir sus articulos(Ropa), realizar ventas seguras y
+llevar control de las ventas.
+
+
+1. Descripcion del proyecto:
+git remote add origin  https://github.com/dgaleano201611/ecommer.git
+
+Requerimientos Funcionales
+
+codigo: RFxx
+Nombre: Lista de productos en home
+proposito: Mostrar productos en venta a los usuarios
+Descripcion: Crear una lista con los productos ofrecidos por la empresa 
+            con informacion relevante de los mismos y que los clientes
+            tengan todos los datos del producto para pasar a realizar la compra
+Entradas: Ruta de la paguina web
+Salidas: Imagenes de productos, precios del producto, ifertas del producto
+Prioridad:xxx
+
+ideas
+
+ventas por mayores
+estadistica de productos mas vendidos. 
