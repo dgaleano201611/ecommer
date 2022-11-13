@@ -5,9 +5,9 @@
         </figure>
 </p>
 
-<h1> g8 Quantum Team </h1>
+<h1> E-commerce </h1>
 
-desarrollar una aplicación web que permita realizar ventas de productos tales como ropa deportiva para dama, caballero y niño a demás de permitir a los usuarios ver un catalogo de productos con la información mas relevante para proceder con la  compra.
+Desarrollo con fines academicos de una aplicación web que permita realizar ventas de productos tales como ropa deportiva para dama, caballero y niño a demás de permitir a los usuarios ver un catalogo de productos con la información mas relevante para proceder con la  compra.
 
 
 ## Authors
