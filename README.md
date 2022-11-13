@@ -13,8 +13,8 @@ Desarrollo con fines academicos de una aplicación web que permita realizar vent
 ## Authors
 
 - **Diego Galeano** - _Owner_ - [diegodag](https://github.com/dgaleano201611)
-- **Duban Rodríguez** - _Developer_ -[Carlos](https://github.com/Caac2022)
-- **Mauricio Salazar** - _Developer_ -[Samuel](https://github.com/samuelbernal44)
+- **Carlos Aguillon** - _Developer_ -[Carlos](https://github.com/Caac2022)
+- **Samuel Bernal** - _Developer_ -[Samuel](https://github.com/samuelbernal44)
 
 
 ## Contributing
