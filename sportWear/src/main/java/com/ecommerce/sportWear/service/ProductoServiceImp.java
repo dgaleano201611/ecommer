@@ -21,7 +21,7 @@ public class ProductoServiceImp implements ProductoService {
 	}
 
 	@Override
-	public Optional<Producto> consultarProductoPorId(Integer idProducto) {
+	public Optional<Producto> consultarProductoPorId(Long idProducto) {
 		return repositorio.findById(idProducto);
 	}
 
@@ -36,7 +36,7 @@ public class ProductoServiceImp implements ProductoService {
 	}
 
 	@Override
-	public void eliminarProducto(Integer idProducto) {
+	public void eliminarProducto(Long idProducto) {
 		repositorio.deleteById(idProducto);
 	}
 

@@ -22,7 +22,7 @@ import lombok.ToString;
 public class Producto {
 	
 	@Id
-	private Integer idProducto;
+	private Long idProducto;
 	private String nombre;
 	private String descripcion;
 	private String imagen;
