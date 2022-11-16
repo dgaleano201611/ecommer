@@ -19,16 +19,17 @@ public class ProductoServiceImp implements ProductoService {
 	public List<Producto> consultarProductosTodos() {
 		return repositorio.findAll();
 	}
+	
+	@Override
+	public Producto crearProducto(Producto producto) {
+		return repositorio.insert(producto);
+	}
 
 	@Override
 	public Optional<Producto> consultarProductoPorId(Long idProducto) {
 		return repositorio.findById(idProducto);
 	}
 
-	@Override
-	public Producto crearProducto(Producto producto) {
-		return repositorio.insert(producto);
-	}
 
 	@Override
 	public Producto actualizarProducto(Producto producto) {

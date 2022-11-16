@@ -8,8 +8,8 @@ import com.ecommerce.sportWear.model.Producto;
 public interface ProductoService {
 	
 	public List<Producto> consultarProductosTodos();
-	public Optional<Producto> consultarProductoPorId(Long idProducto);
 	public Producto crearProducto(Producto producto);
+	public Optional<Producto> consultarProductoPorId(Long idProducto);
 	public Producto actualizarProducto(Producto producto);
 	public void eliminarProducto(Long idProducto);
 	
