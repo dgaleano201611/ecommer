@@ -9,7 +9,7 @@ public interface ProductoService {
 	
 	public List<Producto> consultarProductosTodos();
 	public Producto crearProducto(Producto producto);
-	public Optional<Producto> consultarProductoPorId(Long idProducto);
+	public Optional<Producto> consultarProductoPorId(Long id);
 	public Producto actualizarProducto(Producto producto);
 	public void eliminarProducto(Long idProducto);
 	
