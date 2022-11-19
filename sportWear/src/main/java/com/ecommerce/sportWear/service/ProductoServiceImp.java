@@ -23,6 +23,7 @@ public class ProductoServiceImp implements ProductoService {
 	@Override
 	public Producto crearProducto(Producto producto) {
 		return repositorio.insert(producto);
+		
 	}
 
 	@Override
